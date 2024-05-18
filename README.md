@@ -1,4 +1,4 @@
-# Jummbox Desktop
+# JummBox Desktop
 
 **JummBox Desktop** is a desktop app version of JummBox, an online tool for sketching and sharing instrumental music.
 
