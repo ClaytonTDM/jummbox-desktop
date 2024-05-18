@@ -39,7 +39,7 @@ function createWindow() {
         },
         icon: path.join(__dirname, "icon.png"),
     });
-
+    win.removeMenu();
     win.maximize();
 
     downloadFile(downloadUrl, localFilePath, function (err) {
