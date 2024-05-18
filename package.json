@@ -1,0 +1,23 @@
+{
+  "name": "jummbox-desktop",
+  "version": "0.1.0-alpha",
+  "description": "Unified desktop app for JummBox and it's many mods.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claytontdm/jummbox-desktop.git"
+  },
+  "author": "ClaytonTDM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claytontdm/jummbox-desktop/issues"
+  },
+  "homepage": "https://github.com/claytontdm/jummbox-desktop#readme",
+  "dependencies": {
+    "electron": "^30.0.6"
+  }
+}
