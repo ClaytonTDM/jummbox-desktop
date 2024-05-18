@@ -10,7 +10,7 @@ This app aims to provide a more convenient way to use JummBox offline by just op
 
 - **Automatic Updates**: The app will automatically check for JummBox updates and download them when available.
 
-- **Cross-Platform**: Available on Windows, macOS, and Linux. (Android and iOS versions are planned.)
+- **Cross-Platform**: Available on Windows, macOS, and Linux. (Android and iOS versions are planned, but not yet possible.)
 
 ## Installation
 
